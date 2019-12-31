@@ -12,3 +12,14 @@ def get_english_meaning
   # code goes here
 end
 
+sad:
+   english::'(
+   japanese:(Ｔ▽Ｔ)
+ surprised:
+   english::o
+   japanese:o_O
+ wink:
+   english:;)
+   japanese:(^_-)
+ --- 
+   - "(^_-)" 
